@@ -5,7 +5,7 @@ tags: blmpw
 ---
 
 ## Getting started
-1. Recap of last week’s side quest [First Day of School]
+1. Recap of [last week’s](2021-08-16-first-day-of-school.md) side quest
 2. Everyone craves XP
 3. New characters!
 
