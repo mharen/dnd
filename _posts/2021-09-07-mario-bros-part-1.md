@@ -1,5 +1,5 @@
 ---
-title: Our adventurers play an arcade game
+title: Our adventurers play an arcade game (part 1)
 author: B, L, M, P, and W
 tags: blmpw
 ---
