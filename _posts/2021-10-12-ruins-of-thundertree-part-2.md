@@ -6,7 +6,7 @@ tags: blmpw
 
 ## Getting started
 
-Our party of brave adventurers resume their quest for the **Lost Mine of Phandelver** and continue their exploration of the Ruins of Thundertree (see also: [part 1]({{ site.baseurl }}{% post_url 2021-09-07-mario-bros-part-1 %})).
+Our party of brave adventurers resume their quest for the **Lost Mine of Phandelver** and continue their exploration of the Ruins of Thundertree (see also: [part 1]({{ site.baseurl }}{% post_url 2021-10-05-ruins-of-thundertree-part-1 %})).
 
 - **Blaze**, a dragonborn warlock who likes fighting with his mace, and magic. 🐱
 - **Magnus**, a fire genasi sorcerer who likes fighting with dual scimitars. 🐨
