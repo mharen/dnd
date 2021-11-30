@@ -6,7 +6,7 @@ tags: blmpw
 
 ## Getting started
 
-We're still in Thundertree (see also: [part 4]({{ site.baseurl }}{% post_url 2021-11-17-ruins-of-thundertree-part-4 %}))!.
+We're still in Thundertree (see also: [part 4]({{ site.baseurl }}{% post_url 2021-11-16-ruins-of-thundertree-part-4 %}))!.
 
 - **Blaze**, a dragonborn warlock who likes fighting with his mace, and magic. 🐱
 - **Magnus**, a fire genasi sorcerer who likes fighting with dual scimitars. 🐨
