@@ -11,14 +11,14 @@ We're still in Thundertree (see also: [part 3]({{ site.baseurl }}{% post_url 202
 - **Blaze**, a dragonborn warlock who likes fighting with his mace, and magic. 🐱
 - **Magnus**, a fire genasi sorcerer who likes fighting with dual scimitars. 🐨
 - **Reinhardt**, a human fighter who likes fighting with a large hammer. 🐔
-- **Delta**, a Dragonborn ranger who likes long-range fighting. 🐶
+- **Delta**, a dragonborn ranger who likes long-range fighting. 🐶
 - **Angy Boy**, a goliath cleric who likes fighting with a mace and crossbow. 🐱
 
 **Reinhardt** takes the lead today.
 
 ## Today’s adventure
 
-Our party is still in the Ruins of Thundertree, a long-abandoned village with collapsed cottages, overgrown paths, and a large stone tower. They have rested in an old cottage after dispensing with its prior inhabitants.
+Our party is still in the Ruins of Thundertree, a long-abandoned village with collapsed cottages, overgrown paths, and a large stone tower.
 
 ![thundertree map]({{ "/assets/thundertree-map.jpg" | prepend: site.baseurl }})
 

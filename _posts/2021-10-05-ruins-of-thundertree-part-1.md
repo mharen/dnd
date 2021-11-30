@@ -11,7 +11,7 @@ Our party of brave adventurers resume their quest for the **Lost Mine of Phandel
 - **Blaze**, a dragonborn warlock who likes fighting with his mace, and magic. 🐱
 - **Magnus**, a fire genasi sorcerer who likes fighting with dual scimitars. 🐨
 - **Reinhardt**, a human fighter who likes fighting with a large hammer. 🐔
-- **Delta**, a Dragonborn ranger who likes long-range fighting. 🐶
+- **Delta**, a dragonborn ranger who likes long-range fighting. 🐶
 - **Angy Boy**, a goliath cleric who likes fighting with a mace and crossbow. 🐱
 
 Delta takes the lead today.
