@@ -15,7 +15,7 @@ tags: blmpw
 
 ## Today’s adventure
 
-Our adventurers find themselves in an unfamiliar village. Many of the houses appear to be corrupted. A quick investigations reveals a large tree of dark matter at the center of the village. The corruption is spreading.
+Our adventurers find themselves in an unfamiliar village. Many of the houses appear to be corrupted. A quick investigation reveals a large tree of dark matter at the center of the village. The corruption is spreading.
 
 ![tree blight]({{ "/assets/tree-blight.jpg" | prepend: site.baseurl }})
 
