@@ -28,7 +28,7 @@ After a curious battle, involving lots of magic, the vultures disappear.
 
 Everyone continues down the path and they come upon a small stone with a giant sword in it. Without an ounce of hesitation, the group rushes forward and find themselves face to face with numerous enemies. **Delta** manages to disappear 5 goblins. **Apollo** and **Blaze** dispatch with another assortment of creatures.
 
-**Delta** manages to withdraw the sword and calls it Excalibur.
+**Delta** manages to withdraw the sword and calls it ~~Excalibur~~ Master Sword.
 
 Another path is revealed, which leads to obvious danger. The group wisely decides to rest up before exploring.
 
