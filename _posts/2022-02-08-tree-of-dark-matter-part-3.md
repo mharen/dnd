@@ -19,6 +19,6 @@ We're continuing the Tree of Dark Matter (see also: [part 1]({{ site.baseurl }}{
 
 After reconciling with the crumbling cube monster, the adventurers continue on their way. They discover more cube monsters! **Apollo** tries out his new sideways scythe with great success. **Delta** throws hands and takes out another cube monster. **Blaze** flattens another cube monster with his great club, but the squishy creature does not perish. **Angy Boy** finishes the job.
 
-The group continues down the path and eventually come upon a quiet village. They loot the first house they see and discover three chests. One chest is half-filled with magic pudding--it's whatever flavor you want it to be. The remaining treasures include 500 gold, and **Blaze** finds a pair of web shooters. Oh, and 800 silver pieces to share
+The group continues down the path and eventually come upon a quiet village. They loot the first house they see and discover three chests. One chest is half-filled with magic pudding--it's whatever flavor you want it to be. The remaining treasures include 500 gold, and **Blaze** finds a pair of web shooters. Oh, and 800 silver pieces to share.
 
 Until next time...
