@@ -4,7 +4,7 @@ author: B, L, M, P, and W
 tags: blmpw
 ---
 
-[Previously]({{ site.baseurl }}{% post_url 2023-04-25-road-trip-to-elm-spires-part-1 %}):
+[Previously]({{ site.baseurl }}{% post_url 2023-04-25-road-trip-to-elm-spires-part-1 %}).
 
 ### Today
 
